@@ -1,1 +1,1 @@
-![Demo Image](/readme_assets/demo.mp4)
+![Demo Image](/readme_assets/image.png)
